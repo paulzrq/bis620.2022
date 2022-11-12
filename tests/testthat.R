@@ -9,5 +9,6 @@
 library(testthat)
 library(vdiffr)
 library(bis620.2022)
+library(dplyr)
 
 test_check("bis620.2022")
