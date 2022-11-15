@@ -15,7 +15,7 @@ coverage](https://codecov.io/gh/paulzrq/BIS-620/branch/main/graph/badge.svg)](ht
 
 The goal of bis620.2022 is to plot time series data, including basic
 plot and spectral calculation. The data must contains ‘time’ and ‘freq’
-column
+column.
 
 ## Installation
 
