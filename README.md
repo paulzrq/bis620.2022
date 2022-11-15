@@ -9,6 +9,8 @@
 [![Codecov test
 coverage](https://github.com/paulzrq/BIS-620/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/paulzrq/BIS-620/actions/workflows/test-coverage.yaml)
 [![R-CMD-check](https://github.com/paulzrq/BIS-620/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/paulzrq/BIS-620/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/paulzrq/BIS-620/branch/main/graph/badge.svg)](https://app.codecov.io/gh/paulzrq/BIS-620?branch=main)
 <!-- badges: end -->
 
 The goal of bis620.2022 is to plot time series data, including basic
